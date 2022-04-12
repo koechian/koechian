@@ -1,26 +1,25 @@
 <div align="center">
   <h1 align="center">koechain</h1>
 
+[![python][python-shield]][python-url]
 [![javascript][javascript-shield]][javascript-url]
 [![java][java-shield]][java-url]
-[![html][html-shield]][html-url]
-[![visual-studio][vs-shield]][vs-url]
-[![flutter][flutter-shield]][flutter-url]
-[![python][python-shield]][python-url]
+[![php][php-shield]][php-url]
+[![dart][dart-shield]][dart-url]
 [![windows][windows-shield]][windows-url]
 [![linux][linux-shield]][linux-url]
-[![bootstrap][bootstrap-shield]][bootstrap-url]
-[![android][android-shield]][android-url]
-[![codeigniter][codeigniter-shield]][codeigniter-url]
 [![bash][bash-shield]][bash-url]
-[![dart][dart-shield]][dart-url]
-[![react][react-shield]][react-url]
-[![electron][electron-shield]][electron-url]
+[![android][android-shield]][android-url]
 [![git][git-shield]][git-url]
-[![figma][figma-shield]][figma-url]
-[![php][php-shield]][php-url]
+[![codeigniter][codeigniter-shield]][codeigniter-url]
 [![qt][qt-shield]][qt-url]
+[![flutter][flutter-shield]][flutter-url]
+[![react][react-shield]][react-url]
 [![node][node-shield]][node-url]
+[![electron][electron-shield]][electron-url]
+[![html][html-shield]][html-url]
+[![bootstrap][bootstrap-shield]][bootstrap-url]
+[![figma][figma-shield]][figma-url]
 
 
 
@@ -48,7 +47,7 @@
 <details>
   <summary><b>📊 My Programming Stats</b></summary>
   
-  <!--START_SECTION:waka-->
+  <!--waka-box start-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2051%20mins-blue)
 
 **I'm a Night 🦉** 
@@ -76,7 +75,7 @@ Markdown                 0 secs              ░░░░░░░░░░░�
 
 
  Last Updated on 12/04/2022 08:09:26 UTC
-<!--END_SECTION:waka-->
+<!--waka-box end-->
   
 </details>
 
@@ -113,21 +112,21 @@ Markdown                 0 secs              ░░░░░░░░░░░�
 [javascript-url]: https://www.javascript.com/
 [python-shield]: https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54
 [python-url]: https://www.python.org/
-[dart-shield]: https://img.shields.io/badge/dart-3670A0?style=flat-square&logo=dart
+[dart-shield]: https://img.shields.io/badge/Dart-3670A0?style=flat-square&logo=dart
 [dart-url]: https://dart.dev/
-[react-shield]: https://img.shields.io/badge/react-3670A0?style=flat-square&logo=react
+[react-shield]: https://img.shields.io/badge/React-3670A0?style=flat-square&logo=react
 [react-url]: https://reactjs.org/
-[electron-shield]: https://img.shields.io/badge/electron-2c2d3a?style=flat-square&logo=electron&logoColor=bae7f6
+[electron-shield]: https://img.shields.io/badge/Electron-2c2d3a?style=flat-square&logo=electron&logoColor=bae7f6
 [electron-url]: https://electronjs.org/
-[git-shield]: https://img.shields.io/badge/git-d35637?style=flat-square&logo=git&logoColor=white
+[git-shield]: https://img.shields.io/badge/Git-d35637?style=flat-square&logo=git&logoColor=white
 [git-url]: https://git-scm.com/
-[figma-shield]: https://img.shields.io/badge/figma-black?style=flat-square&logo=figma&logoColor=white
+[figma-shield]: https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma&logoColor=white
 [figma-url]: https://figma.com
-[node-shield]: https://img.shields.io/badge/node-82aa66?style=flat-square&logo=nodedotjs&logoColor=white
+[node-shield]: https://img.shields.io/badge/Node-82aa66?style=flat-square&logo=nodedotjs&logoColor=white
 [node-url]: https://nodejs.org
-[php-shield]: https://img.shields.io/badge/php-8d8fbc?style=flat-square&logo=php&logoColor=white
+[php-shield]: https://img.shields.io/badge/Php-8d8fbc?style=flat-square&logo=php&logoColor=white
 [php-url]: https://www.php.net/
-[qt-shield]: https://img.shields.io/badge/qt-7dcf5c?style=flat-square&logo=qt&logoColor=white
+[qt-shield]: https://img.shields.io/badge/Qt-7dcf5c?style=flat-square&logo=qt&logoColor=white
 [qt-url]: https://www.qt.io/
 [ada-shield]:
 [ada-url]: 
