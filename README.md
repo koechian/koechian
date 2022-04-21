@@ -91,7 +91,7 @@ Markdown                 0 secs              ░░░░░░░░░░░�
   ### 👀 Hobbies
   - 🎮 Videogames, mostly multiplayer FPS, RPG's and FIFA. 
   - ⚽ I love playing football. I also played football for many years but didn't like it too much
-  - 🏋🏻‍♂️ I like working out and 🏃🏻 running (mostly in the rain 🌧)
+  - 🏋🏻‍♂️ I like working out and 🏃🏻 running.
 
 
 <!-- OS -->
