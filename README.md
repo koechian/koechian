@@ -6,7 +6,6 @@
 [![java][java-shield]][java-url]
 [![php][php-shield]][php-url]
 [![dart][dart-shield]][dart-url]
-[![windows][windows-shield]][windows-url]
 [![linux][linux-shield]][linux-url]
 [![bash][bash-shield]][bash-url]
 [![android][android-shield]][android-url]
